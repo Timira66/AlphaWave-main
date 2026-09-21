@@ -1,0 +1,9 @@
+[
+ {
+  "ts": 1789907405,
+  "kind": "CRASH_WARNING",
+  "coin": "BTCUSDT",
+  "trade_id": "TTEST1",
+  "message": "test crash alert"
+ }
+]
